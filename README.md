@@ -1,2 +1,2 @@
 # SodaMachine
-Code project used in technical interviews.
+My contribution to the code for the technical interview.
